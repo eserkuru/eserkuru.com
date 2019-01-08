@@ -1,0 +1,34 @@
+.navbar {
+    background-image: url(../img/bg.png);
+    background-size: contain;
+
+}
+.container-fluid {
+    background-color: #010202;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #d5e3e4;
+}
+
+hr {
+    background: #013c3c;
+}
+
+a, .dev-icons .list-inline-item i:hover,
+.text-primary
+{
+    color: darkcyan !important;
+}
+
+.bg-primary {
+    background-color: #010202 !important;
+}
+
+.social-icons a:hover {
+    background-color: darkcyan !important;
+}
+
+a:hover, a:focus, a:active {
+    color: #824027;
+}
