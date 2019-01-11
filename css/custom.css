@@ -3,7 +3,7 @@
     background-size: contain;
 
 }
-.container-fluid {
+.container-fluid, .language-bar{
     background-color: #010202;
 }
 
