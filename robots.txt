@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Site haritasý: http://www.example.com/sitemap.xml
